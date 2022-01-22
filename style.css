@@ -1,0 +1,22 @@
+.container{
+    width: 1170px;
+    margin: 0 auto;
+
+}
+
+.contact-form{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.contact-form .form-item{
+    margin-bottom: 18px;
+   
+}
+
+.form-item input{
+    width: 75%;
+}
